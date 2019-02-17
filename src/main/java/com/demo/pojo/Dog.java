@@ -1,9 +1,12 @@
 package com.demo.pojo;
 
+import java.util.Date;
+
 public class Dog {
     private String name;
     private int age;
 
+    private Date time;
     public String getName() {
         return name;
     }
