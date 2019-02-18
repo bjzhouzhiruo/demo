@@ -19,6 +19,8 @@ public class Person {
     private List<String> list;
     private Dog dog;
 
+    private String jss;
+
 
     public String getName() {
         return name;
